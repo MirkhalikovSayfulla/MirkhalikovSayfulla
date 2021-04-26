@@ -10,5 +10,3 @@ Here are some ideas to get you started:
      - Just as we said before, recent studies have shown that over 70% of coding jobs are in fields outside of technology.
      - The first computer game didn’t make any profit. Today the gaming industry is worth $30 million (USD) more than the movie industry.
 
-- My Resume:
-    - <a href="./resume.pdf">Resume PDF</a>
